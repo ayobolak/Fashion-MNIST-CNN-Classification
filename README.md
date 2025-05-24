@@ -24,6 +24,7 @@ The CNN model contains:
 ## 🗂️ Project Structure
 - ```CNN-based Fashion MNIST.ipynb``` - pyhton
 - ```CNN FASHION MNIST.R``` - R
+- ```READ.me```
  
 
 
