@@ -32,22 +32,9 @@ The CNN model contains:
 
 ### Option 1: Python Setup
 
-1. **Create a virtual environment**:
-   ```bash
-   conda create -n fashion-cnn python=3.9
-   conda activate fashion-cnn
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run training and prediction**:
-   ```bash
-   python fashion_cnn.py
-   python fashion_predict.py
-   ```
+1. Create a virtual environment
+2. Install dependencies
+3. Run training and prediction
 
 ---
 
