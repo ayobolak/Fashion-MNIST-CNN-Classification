@@ -22,9 +22,12 @@ The CNN model contains:
 8. **Output Layer** — Dense with softmax activation (10 classes)
 
 ## 🗂️ Project Structure
+- ```CNN-based Fashion MNIST.ipynb`` - pyhton
+- ```CNN FASHION MNIST.R``` - R
+ 
 
 
-## ⚙ Setup Instructions
+##  Setup Instructions
 
 ### Option 1: Python Setup
 
